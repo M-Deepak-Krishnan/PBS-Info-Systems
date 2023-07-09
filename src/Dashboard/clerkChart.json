@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Keerthana",
+    "credit": 2000,
+    "debit": 1000
+  },
+  {
+    "name": "Arvindh",
+    "credit": 5000,
+    "debit": 3000
+  },
+  {
+    "name": "Vijay",
+    "credit": 3000,
+    "debit": 4000
+  }
+]

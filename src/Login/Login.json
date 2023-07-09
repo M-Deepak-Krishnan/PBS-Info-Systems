@@ -1,0 +1,41 @@
+[
+  {
+    "loginId": "deepak",
+    "password": "deep@123",
+    "type": "customer",
+    "holdings":100000
+  },
+  {
+    "loginId": "mahesh",
+    "password": "mahesh@123",
+    "type": "customer",
+    "holdings":130000
+  },
+  {
+    "loginId": "suresh",
+    "password": "suresh@123",
+    "type": "customer",
+    "holdings":200000
+  },
+  {
+    "loginId": "geetha",
+    "password": "geetha@123",
+    "type": "customer",
+    "holdings":670000
+  },
+  {
+    "loginId": "keerthana",
+    "password": "keerthana@123",
+    "type": "clerk"
+  },
+  {
+    "loginId": "arvindh",
+    "password": "arvindh@123",
+    "type": "clerk"
+  },
+  {
+    "loginId": "vijay",
+    "password": "vijay@123",
+    "type": "clerk"
+  }
+]
